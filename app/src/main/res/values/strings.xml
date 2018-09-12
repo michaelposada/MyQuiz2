@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="question_australia">Canberra is the captital of Australia</string>
+    <string name="question_batman">Is Bruce Wayne Batman?</string>
+    <string name="question_spiderman">Is Peter Parker Spiderman?</string>
+    <string name="question_war">Did we win World War I?</string>
+    <string name="True_Button">True</string>
+    <string name="False_Button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+</resources>
