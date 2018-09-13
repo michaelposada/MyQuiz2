@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 if(mCurrentIndex == 0) {
                     return;
                 }
-                mCurrentIndex = (mCurrentIndex - 1) % mQuestionBank.length;
+                mCurrentIndex -= 1;
                 updateQuestion();
             }
         });
