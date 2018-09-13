@@ -23,7 +23,10 @@ public class MainActivity extends AppCompatActivity {
             new Question(R.string.question_australia,true),
             new Question(R.string.question_batman, true),
             new Question(R.string.question_spiderman, true),
+            new Question(R.string.question_pokemon,false),
+            new Question(R.string.question_war,false)
     };
+
     private int mCurrentIndex = 0;
 
     @Override
